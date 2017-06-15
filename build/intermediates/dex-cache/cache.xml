@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ledai\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\pre-dexed\debug\retrofit-2.3.0_e5e2c5c47db41d21b86d032c685913a2acad7773.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ledai\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.8.0\9bada650e1afe9c6174ddc0d113c1fce4dc26fe0\glide-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\pre-dexed\debug\glide-3.8.0_2be3ea1b950ed7451c3ca3fe73f06974bdfa2666.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ledai\.android\build-cache\57d2bc1281f00882f6701715725e80ff509d6a37\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\pre-dexed\debug\classes_0d255761cbdc1c3c043ab746616f1eba1e3a7d91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ledai\.android\build-cache\e8dac91f10fe70a1cf7f5296a5ef0649558ea9eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\pre-dexed\debug\classes_927ba39d5b05c0423d15a31dc15c190edb1ed26f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ledai\.android\build-cache\ca27a56a554738c78a4fa14b07acd199c642d7f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\pre-dexed\debug\classes_4a51540ff6bb35fc45f9291fa045ede53957fa4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ledai\.android\build-cache\d2088f11e498952e68b6d4cfd279a7f2d3fbff32\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\pre-dexed\debug\classes_a9574d1d739d8e6dc25a7ef3d5f2e4e89388d302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ledai\.android\build-cache\d97799a8208f1faa9558e3cf9f3f051740a5e1b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\pre-dexed\debug\classes_02046e170c0bee6f572214ecad1930d5d5eddd47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ledai\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\pre-dexed\debug\okio-1.13.0_3a1b26be59de68f62ffdcb51b18c27f6be93ccd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ledai\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_237122dba5fa5761b6f1e6d45979f304869e271c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ledai\.android\build-cache\aa55dd908503dee87e9aeb4a580678a4b0248317\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\pre-dexed\debug\classes_b66b5c292597bf3b007a480e0f4b44e5bbaab656.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ledai\.android\build-cache\887206996723fa887eb5914d85899df942be6f4f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\pre-dexed\debug\classes_4c8b074b0695772bb550ddf6857f5c7d19a6cfa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ledai\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\pre-dexed\debug\okhttp-3.8.0_c7f146cb003c2f0e1480401ab7a0516b2d111c7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ledai\.android\build-cache\d5bc70fee096ccac7a3894fcad32d7e0bcd50d4f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\pre-dexed\debug\classes_4da375bc25991be724a473b2713ac0a72f42b7c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ledai\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\pre-dexed\debug\gson-2.7_cd4917611d11c076b5659a6844e34ebd23c81d31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ledai\.android\build-cache\dbfd06598efa71085a07e47cdffbffa38bdbcb9f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\pre-dexed\debug\classes_1234ccb5baae9eab8863686c2f19bad8587ba5a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ledai\.android\build-cache\644b96c36cd3cf882151ecf9b1dd05e2364f5f9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\pre-dexed\debug\classes_e2e4343f60a55af3d86663f8d03365ae54318c92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ledai\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\pre-dexed\debug\converter-gson-2.3.0_2b4d3c8e4cb611993505b2998e1a71ec74f8be3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ledai\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_4b277d3bfb999ccec20d9ebd7cfe4407bf71e48a.jar" />
+    </item>
+
+</items>

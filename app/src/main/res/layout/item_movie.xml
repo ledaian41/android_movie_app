@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/small_space"
+    android:background="@color/colorPrimaryDark">
+    <!--Image View-->
+
+    <ImageView
+        android:id="@+id/ivCover"
+        tools:src="@drawable/sample"
+        android:layout_width="0sp"
+        android:layout_height="@dimen/cover_size"
+        android:layout_weight="1"
+        android:scaleType="centerCrop"
+        android:adjustViewBounds="true"/>
+    <!--Title and Description-->
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="0sp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginLeft="@dimen/small_space"
+        android:layout_marginStart="@dimen/small_space">
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="@string/title"
+            android:textColor="@color/colorTitle"
+            android:textSize="@dimen/title_size"/>
+        <TextView
+            android:id="@+id/tvOverview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="@string/conten_sample"
+            android:textColor="@color/colorPrimaryText"
+            android:textSize="@dimen/content_size"/>
+    </LinearLayout>
+</LinearLayout>
