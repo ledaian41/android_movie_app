@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimaryDark"
+    android:orientation="horizontal"
+    android:padding="@dimen/small_space">
+    <!--Image View-->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/popular_cover">
+
+        <ImageView
+            android:id="@+id/ivCover"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/popular_cover"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:paddingLeft="@dimen/space"
+            android:paddingRight="@dimen/space"
+            android:scaleType="fitXY"
+            tools:src="@drawable/backdrop_sample" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/circle_play_button" />
+    </RelativeLayout>
+
+</LinearLayout>

@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:orientation="horizontal"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
     android:padding="@dimen/small_space"
     android:background="@color/colorPrimaryDark">
     <!--Image View-->
@@ -14,8 +14,8 @@
         android:layout_width="0sp"
         android:layout_height="@dimen/cover_size"
         android:layout_weight="1"
-        android:scaleType="centerCrop"
-        android:adjustViewBounds="true"/>
+        android:scaleType="fitXY"
+        android:adjustViewBounds="true" />
     <!--Title and Description-->
     <LinearLayout
         android:orientation="vertical"

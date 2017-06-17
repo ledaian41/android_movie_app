@@ -22,7 +22,9 @@ package com.anlee.movieapp;
 
 import com.google.gson.annotations.SerializedName;
 
-public class Movie {
+import java.io.Serializable;
+
+public class Movie implements Serializable {
 
     private static final String POST_FIX = "https://image.tmdb.org/t/p/w500";
 
@@ -41,6 +43,15 @@ public class Movie {
     @SerializedName("backdrop_path")
     private String backdropPath;
 
+    @SerializedName("vote_average")
+    private double voteAverage;
+
+    @SerializedName("popularity")
+    private double popularity;
+    
+    @SerializedName("release_date")
+    private String releaseDate;
+
     public long getId() {
         return id;
     }
@@ -58,5 +69,21 @@ public class Movie {
     }
 
     public String getBackdropPath() {return POST_FIX + backdropPath;
+    }
+
+    public double getVoteAverage() {
+        return voteAverage;
+    }
+
+    public double getPopularity() {
+        return popularity;
+    }
+
+    public String getReleaseDate() {
+        return releaseDate;
+    }
+
+    public void setVoteAverage(double voteAverage) {
+        this.voteAverage = voteAverage;
     }
 }

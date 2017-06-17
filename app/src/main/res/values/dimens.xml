@@ -4,5 +4,7 @@
     <dimen name="small_space">8sp</dimen>
     <dimen name="title_size">24sp</dimen>
     <dimen name="content_size">16sp</dimen>
-    <dimen name="cover_size">400sp</dimen>
+    <dimen name="cover_size">360sp</dimen>
+    <dimen name="popular_cover">240sp</dimen>
+    <dimen name="space">16sp</dimen>
 </resources>
