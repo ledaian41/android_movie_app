@@ -38,8 +38,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<href src='http://i.imgur.com/YMTh3dP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<href src='http://i.imgur.com/thmuDCB.gif' title='Video Walkthrough Lands' width='' alt='Video Walkthrough Lands' />
+[Portrait mode](http://i.imgur.com/YMTh3dP.gif)
+[Landscape mode](http://i.imgur.com/thmuDCB.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
