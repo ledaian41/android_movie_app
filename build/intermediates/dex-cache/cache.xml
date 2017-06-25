@@ -2,13 +2,139 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
+        is-multidex="true"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.3.0_712c5818c169af2a54e9f3b7fe9795210668631e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\076250614be97b6913a3947fa9d46036c343a01f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3fa740c6426fbd246325dfa963e37ee905487fb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\79ba27a7f1070f4158a4ea1602fdca904982d17b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="be587097e648eabfb7f9eca23ab03369894e2d5d">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f553d3fae04b319946558b80ac70b618eff50f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.8.0_ef94afd046c61fae758cc1b30ebeb38c1a84ae00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\android\databinding\baseLibrary\2.3.3\baseLibrary-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb3399988a52099b0127e27fb5bed666eca86ace">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\baseLibrary-2.3.3_cc3afaf91424e734a49c56928e36b4d96c0d272b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="D:\My GitHub\android_movie_app\app\libs\YouTubeAndroidPlayerApi.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
-        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi_191d6a46859031d9dba232fc91059949725d9b96.jar" />
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_191d6a46859031d9dba232fc91059949725d9b96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\bba079456a0768730477158ef82fec371df77b0a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_caf87d23ca571c0f24927c479ab98832b4e90d1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.6.0\48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8\butterknife-annotations-8.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.6.0_31e6d0a9961f7387762e925446083b87230687ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\My GitHub\android_movie_app\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9d349db7d0df8280cbb4bb7eab6a07ac412bce0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_5379c52f1efcef7cfb84da94fb060736ecac9a96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\My GitHub\android_movie_app\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="210f4833eb95c25902a475c84ccd0f28af29ec33">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f7cf23e0cae69c3a6e995f3e3efccbef0627a6dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.3.0_134c6d9d88e4500a20ecc23b379f94a78c559fc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.8.0\9bada650e1afe9c6174ddc0d113c1fce4dc26fe0\glide-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.8.0_cde440bdf0df636be27cb619845aba61d4d0125b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\39235cea6671120cc55a759508ef1e0c68d350bd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a44b4cfe23b1818f8979e8310a9d9f6d23492443\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\My GitHub\android_movie_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_f2a649223c88ab7a8d69835e93173db036bb7c7d\classes.dex" />
     </item>
 
 </items>

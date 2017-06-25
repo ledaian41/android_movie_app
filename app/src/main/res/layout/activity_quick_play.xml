@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:padding="@dimen/small_space"
     android:background="@color/colorPrimaryDark"
-    tools:context="com.anlee.movieapp.QuickPlayActivity">
+    tools:context="com.anlee.movieapp.activity.QuickPlayActivity">
 
     <fragment
         android:id="@+id/player"
